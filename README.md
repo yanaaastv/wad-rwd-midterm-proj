@@ -1,7 +1,7 @@
 
-# 🏥 Medical Assistance
+#  Medical Assistance
 
-## 📘 Project Overview GROUP 7
+## Project Overview GROUP 7
 
 **Project Name:** Medical Assistance
 
@@ -11,17 +11,17 @@ It allows users to fill out and submit medical information, choose the type of m
 
 ---
 
-## 🌐 Live Preview
+## Live Preview
 
 You can view the live project [here](https://raw.githack.com/mawinigop/MIDTERM-PROJECT-WAD-1-RWD/main/html/index.html).
 
-> ⚠️ **Note:** When using **Live Server** or **RawGitHack**, the form submission may not work properly due to browser or server restrictions.
+> **Note:** When using **Live Server** or **RawGitHack**, the form submission may not work properly due to browser or server restrictions.
 > This is due to security restrictions (403 Forbidden error: openresty/1.25.3.2) on external hosting.
 To experience full functionality, please run the project locally by opening the HTML files directly or using a local development server
 
 ---
 
-## 👥 Group Members and Contributions
+## Group Members and Contributions
 
 | Name             | Contribution             |
 | ---------------- | ------------------------ |
@@ -32,7 +32,7 @@ To experience full functionality, please run the project locally by opening the 
 
 ---
 
-## ⚙️ Features Implemented
+## Features Implemented
 
 * **Medical Assistance Form** for user information and service selection
 * Department options (Diagnostic, X-ray, Ultrasound, Optical, Dental, etc.)
